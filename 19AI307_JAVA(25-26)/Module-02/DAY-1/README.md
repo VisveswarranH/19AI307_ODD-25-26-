@@ -104,9 +104,9 @@ To write a Java program that demonstrates calling one method from another method
 ## PROGRAM:
  ```
 /*
-Program to implement a Methods using Java
-Developed by: Abinaya A
-RegisterNumber:212224230004
+Program to implement a Class and Objects using Java
+Developed by: Visveswarran H
+RegisterNumber:212224110063
 */
 ```
 
@@ -169,9 +169,9 @@ To write a Java program that demonstrates the use of access specifiers, specific
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Specifiers using Java
-Developed by:Abinaya A 
-RegisterNumber:212224230004
+Program to implement a Class and Objects using Java
+Developed by: Visveswarran H
+RegisterNumber:212224110063
 */
 ```
 
@@ -252,9 +252,9 @@ To write a Java program to demonstrate variable scope and the use of a construct
 ## PROGRAM:
  ```
 /*
-Program to implement a Variable scope and Constructor using Java
-Developed by: Abinaya A
-RegisterNumber:212224230004
+Program to implement a Class and Objects using Java
+Developed by: Visveswarran H
+RegisterNumber:212224110063
 */
 ```
 
@@ -328,9 +328,9 @@ To write a Java program that demonstrates the use of access modifiers through st
 ## PROGRAM:
  ```
 /*
-Program to implement a Access Modifiers using Java
-Developed by: Abinaya A
-RegisterNumber:212224230004
+Program to implement a Class and Objects using Java
+Developed by: Visveswarran H
+RegisterNumber:212224110063
 */
 ```
 
